@@ -73,3 +73,7 @@ Account{name=refs, path=C:/Users/Nam/Documents/GitHub/Antay/.git/logs/refs, type
 2025-06-28 18:42:52.233 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020202]project documentation update end
 2025-06-28 18:42:52.250 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030201]convertors for folder(C:/Users/Nam/Documents/GitHub/Antay) reload start
 2025-06-28 18:42:52.280 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030202]convertors for folder(C:/Users/Nam/Documents/GitHub/Antay) load end
+2025-06-28 18:50:50.062 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/Nam/Documents/GitHub/Antay)
+2025-06-28 18:51:56.380 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/Nam/Documents/GitHub/Antay)
+2025-06-28 18:51:57.420 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/Nam/Documents/GitHub/Antay)
+2025-06-28 18:52:58.525 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/Nam/Documents/GitHub/Antay)
